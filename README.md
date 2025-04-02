@@ -2,7 +2,7 @@
 
  > Celý tento návrh je psán s uvědoměním vlastní neznalosti
 ### Popis a cíl projektu : 
-  Mělo by se jedna o **GPS Tracker** (sledovač) který dle nastavení jednou za určitou dobu (odmlka odpočítávána v režimu Hibernace) odešle souřadnice pomocí AT-commands
+  Mělo by se jednat o **GPS Tracker** (sledovač) který dle nastavení jednou za určitou dobu (odmlka odpočítávána v režimu Hibernace) odešle souřadnice pomocí AT-commands
   : Přejde do aktivního režimu -> zapne modul GPS -> zjistí souřadnice -> zapne SIM/LTE modul -> odešle souřadnice + id zařízení na server --> následně vypne všechny moduly a přejde zět do hibernace
 
   Server (NodeJS , Django, nebo jiné...) by data ukládal do databáze (např. souborová SQL lite) + dále zpracovával pro zobrazení na mapě (google-maps API atd.) .
