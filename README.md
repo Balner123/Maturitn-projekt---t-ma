@@ -30,7 +30,7 @@ první pokusy o funkční kód pro hardware (ESP32)
 
 [Multi-GNSS polohovací modul – L76K – GPS, BeiDou (BDS), GLONASS, QZSS – Waveshare 23721](https://botland.cz/gps-moduly/22732-multi-gnss-polohovaci-modul-l76k-gps-beidou-bds-glonass-qzss-waveshare-23721.html)
 
-[Nabíječka Li-ion článku TP4056 USB-C | LaskaKit](https://www.laskakit.cz/nabijecka-li-ion-clanku-tp4056-usb-c/)
+[Li-ion cell charger TP4056 with microUSB protection ](https://www.laskakit.cz/en/nabijecka-li-ion-clanku-tp4056-s-ochranou-microusb/)
 
 [GeB Li-Ion Battery 1x18650 1S1P 3.7V 3200mAh  | LaskaKit](https://www.laskakit.cz/en/geb-li-ion-baterie-1x18650-1s1p-3-7v-3200mah/)
 
