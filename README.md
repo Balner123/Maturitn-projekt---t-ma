@@ -10,7 +10,8 @@
   Server by také fungoval jako server webový pro : prohlížení + konfiguraci jednotlivých zařízení -> to by byla možnost změny časové odmlky mezi odesíláním souřadnic ( zařízení by si tedy muselo od serveru vždy při odesílání také vyžádat informaci zda byla jeho konfigurace změněna a pokud ano tak ji přijmout)
 
 Schéma : 
-![canvas_gps-tracker-250402_0730](https://github.com/user-attachments/assets/94ff53e4-37ac-446c-b65e-447a0e912179)
+![canvas_gps-tracker-250402_0916](https://github.com/user-attachments/assets/958f48d4-a522-4d04-a5d9-3479725c6d2a)
+
 
 Hardwarová čast by také mohla být zapozdřena v 3D tisknuté krabičce...
 
